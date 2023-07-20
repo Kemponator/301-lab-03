@@ -1,0 +1,14 @@
+header {
+  background-color: tomato;
+  padding: 1rem;
+}
+
+.header-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  font-size: 2rem;
+}
